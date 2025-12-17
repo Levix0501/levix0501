@@ -55,5 +55,5 @@ Hey 👋, I'm Levix!
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=levix0501&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=levix0501&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
